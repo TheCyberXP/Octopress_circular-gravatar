@@ -1,0 +1,4 @@
+# Gravatar
+gravatar_email: youraddress@email.com
+
+default_asides: [custom/asides/gravatar.html]
